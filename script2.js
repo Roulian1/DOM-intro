@@ -6,10 +6,11 @@ function changingtitle() {
 
 console.log(newdoc);
 
-document.body.style.backgroundColor = "#FF69B4";
+document.body.style.background = "#ffec57";
 
 let arr = document.body.children;
 
 for (let elem of arr) {
     console.log(elem);
   }
+
